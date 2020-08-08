@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109695908240",
+    "firebase_url": "https://k-power-8978c.firebaseio.com",
+    "project_id": "k-power-8978c",
+    "storage_bucket": "k-power-8978c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109695908240:android:f01a945123cb0fb6d9db15",
+        "android_client_info": {
+          "package_name": "in.acara.kpower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109695908240-qo8ii06k4hjl06i13f49n58gefmdr7li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrmorMOxT96k7qJx6wMc-yWhZnSRudQZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109695908240-qo8ii06k4hjl06i13f49n58gefmdr7li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

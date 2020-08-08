@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KSEB Power</string>
+    <string name="api_url">http://192.168.0.27/kpower/api/</string>
+</resources>
